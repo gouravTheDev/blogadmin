@@ -1,0 +1,1 @@
+{"Type":"DB_CONNECT","Details":"Access denied for user 'ss'@'localhost' (using password: YES)","File":"\/home\/admin\/web\/frp.ov\/public_html\/DIZ\/FN\/FN_Sign.php","HTTP_USER_AGENT":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.169 Safari\/537.36","REQUEST_URI":"\/sign","HTTP_REFERER":"http:\/\/frp.ov\/sign","ip":"172.17.0.1"}

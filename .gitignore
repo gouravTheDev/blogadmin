@@ -1,0 +1,5 @@
+vendor/
+/CONFIG/config.php
+CONFIG/config-local.php
+/SDK/
+#_BACKUP/

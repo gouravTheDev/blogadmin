@@ -1,0 +1,9 @@
+body{
+	background: url(../img/bgc.jpg) no-repeat center center fixed; 
+	 background-size: cover;
+	 color: #ffffff;
+}
+#home{
+	background-color: transparent;
+	
+}

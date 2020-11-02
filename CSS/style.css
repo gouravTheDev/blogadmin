@@ -1,0 +1,28 @@
+body, html {
+  height: 100%;
+}
+
+
+
+#bgc{
+	background-image: url("1.jpg");
+
+  /* Full height */
+  /*height: 100%; */
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gridView1{
+  width:250px;
+  border-radius: 8px;
+  padding: 5px;
+  text-align: center;
+  float: left;
+  margin: 12px;
+  border: 1px solid grey;
+  height: 250px;
+}
