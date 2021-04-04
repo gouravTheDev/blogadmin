@@ -24,13 +24,6 @@
 
 <script src="/CSS/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-<script src="/CSS/plugins/jqvmap/jquery.vmap.min.js"></script>
-<script src="/CSS/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
-<!-- jQuery Knob Chart -->
-<script src="/CSS/plugins/jquery-knob/jquery.knob.min.js"></script>
-<!-- daterangepicker -->
-<script src="/CSS/plugins/moment/moment.min.js"></script>
-
 <script src="/CSS/dist/js/demo.js"></script>
 
 <script type="text/javascript">
