@@ -37,6 +37,7 @@ if(mysqli_connect_error()){
      <link rel="stylesheet" href="/CSS/plugins/fontawesome-free/css/all.min.css">
     <!-- Theme style -->
     <link rel="stylesheet" href="/CSS/dist/css/adminlte.css">
+    <link rel="stylesheet" href="/CSS/table.min.css">
     <!-- overlayScrollbars -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
     <!-- <link rel="stylesheet" href="/CSS/video.css" > -->
@@ -63,6 +64,9 @@ if(mysqli_connect_error()){
           </li>
           <li class="nav-item" style="margin-right: 5px;">
             <a href="createBlog" class="btn btn-outline-success">Create Blog</a>
+          </li>
+          <li class="nav-item" style="margin-right: 5px;">
+            <a href="reviews" class="btn btn-outline-success">Reviews</a>
           </li>
         </ul>
       <?php endif; ?>

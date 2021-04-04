@@ -16,13 +16,11 @@
 
 
 <script src="/JS/export.js"></script>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.js"></script>
 <script src="/CSS/plugins/jquery/jquery.min.js"></script>
 
 <script src="/CSS/plugins/jquery-ui/jquery-ui.min.js"></script>
+
+<script src="/JS/datatable/datatable.js"></script>
 
 <script src="/CSS/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 
@@ -34,3 +32,18 @@
 <script src="/CSS/plugins/moment/moment.min.js"></script>
 
 <script src="/CSS/dist/js/demo.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(() => {
+	    $('#generalTable').DataTable( {
+	      "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+	      "columns": [
+	        null,
+	        null,
+	        null,
+	        { "width": "50%" },
+	        null,
+	       ],
+	    });
+	});
+</script>
